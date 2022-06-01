@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InstabugTask</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="url_fragment_label">Test URLs</string>
+    <string name="cached_url_fragment_label">Cached URLs</string>
+    <string name="request">Request</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="editText_enter_testing_url">Enter Testing URL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_add_header">Add Header</string>
+    <string name="hint_accept">Accept</string>
+    <string name="hint_application_json">application/json</string>
+</resources>
